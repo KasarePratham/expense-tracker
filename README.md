@@ -1,3 +1,8 @@
+<img width="583" height="299" alt="output5" src="https://github.com/user-attachments/assets/69f0c7ff-41fa-4de4-8668-5ab3a4b59e5c" />
+<img width="519" height="267" alt="output4" src="https://github.com/user-attachments/assets/7b8bf026-0707-4663-b8fc-fe3361589a96" />
+<img width="620" height="283" alt="output3" src="https://github.com/user-attachments/assets/0aa25540-7626-4200-ac90-94f75b30e267" />
+<img width="982" height="450" alt="output2" src="https://github.com/user-attachments/assets/3dc2ef48-140c-4222-9a3b-7298be4c5a04" />
+<img width="774" height="414" alt="output1" src="https://github.com/user-attachments/assets/796ff414-3bc7-40cf-ab69-ffd2e42237ca" />
 # Daily Expense Tracker
 
 A beginner-friendly Python project to keep track of your day-to-day expenses directly from the terminal.  
