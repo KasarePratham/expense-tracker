@@ -43,9 +43,6 @@ This project helped me practice important Python basics such as:
 3. Open the project folder in terminal or VS Code.
 4. Run the file using:
 
-```bash
-python expense_tracker.py
-
 ## Author
 
 Developed by Pratham Kasare as a Python practice project to improve programming and problem-solving skills.
